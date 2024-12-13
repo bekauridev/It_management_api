@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "64d1a2b0b6e2e35d8a9b1234",
+    "name": "John Doe",
+    "phone": "5552345",
+    "email": "john.doe@example.com",
+    "position": "Service Technician",
+    "dateJoined": "2022-01-15T00:00:00Z",
+    "notes": "Expert in electrical repairs."
+  },
+  {
+    "_id": "64d1a2b0b6e2e35d8a9b1235",
+    "name": "Emma White",
+    "phone": "5553456",
+    "email": "emma.white@example.com",
+    "position": "Customer Support",
+    "dateJoined": "2021-06-30T00:00:00Z",
+    "notes": "Great with customer relations."
+  },
+  {
+    "_id": "64d1a2b0b6e2e35d8a9b1236",
+    "name": "David Lee",
+    "phone": "5554567",
+    "email": "david.lee@example.com",
+    "position": "Service Manager",
+    "dateJoined": "2020-09-10T00:00:00Z",
+    "notes": "Oversees all service operations."
+  }
+]

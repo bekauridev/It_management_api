@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "64d2c4d5e7f7a45689a56789",
+    "employee": "64d1a2b0b6e2e35d8a9b1234",
+    "customer": "64d1b3c1c4a9e76f8b2c5678",
+    "serviceDetails": "Electrical system check.",
+    "date": "2023-12-01T10:00:00Z",
+    "rating": 5,
+    "feedback": "Excellent service, very thorough!"
+  },
+  {
+    "_id": "64d2c4d5e7f7a45689a56790",
+    "employee": "64d1a2b0b6e2e35d8a9b1235",
+    "customer": "64d1b3c1c4a9e76f8b2c5679",
+    "serviceDetails": "Customer support inquiry.",
+    "date": "2023-12-02T14:30:00Z",
+    "rating": 2,
+    "feedback": "Resolved my issue quickly."
+  },
+  {
+    "_id": "64d2c4d5e7f7a45689a56791",
+    "employee": "64d1a2b0b6e2e35d8a9b1236",
+    "customer": "64d1b3c1c4a9e76f8b2c5680",
+    "serviceDetails": "Installation of premium package.",
+    "date": "2023-12-03T09:00:00Z",
+    "rating": 3,
+    "feedback": "The installation went smoothly!"
+  }
+]

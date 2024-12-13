@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "64d1b3c1c4a9e76f8b2c5678",
+    "name": "Alice Johnson",
+    "phone": "5551234",
+    "email": "alice.johnson@example.com",
+    "notes": "Regular customer since 2020."
+  },
+  {
+    "_id": "64d1b3c1c4a9e76f8b2c5679",
+    "name": "Bob Smith",
+    "phone": "5555678",
+    "email": "bob.smith@example.com",
+    "notes": "Prefers evening appointments."
+  },
+  {
+    "_id": "64d1b3c1c4a9e76f8b2c5680",
+    "name": "Catherine Brown",
+    "phone": "5558765",
+    "email": "catherine.brown@example.com",
+    "notes": "Interested in premium services."
+  }
+]
