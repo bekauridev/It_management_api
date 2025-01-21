@@ -36,11 +36,12 @@ const connectWithRetry = () => {
 
 connectWithRetry();
 
+if (process.env.NODE_ENV !== "production") {
 const port = process.env.PORT || 3000;
 const server = app.listen(port, () => {
   console.log(`App running on port ${port} in ${process.env.NODE_ENV} mode`.cyan);
 });
-
+}
 // Catch asynchronous unhandled rejections
 process.on("unhandledRejection", async (reason, promise) => {
   console.error("UNHANDLED REJECTION! 💥 Shutting down...", reason);
